@@ -89,8 +89,8 @@
 
 <h2>Repo Search Key </h1>
 
-- <b>PH</b> Programming Hero's Project
+- <b>sam-ph || ph</b> Programming Hero's Project
 
-- <b>SP</b> Self Project
+- <b>sam-sp</b> Self Project
 
 
