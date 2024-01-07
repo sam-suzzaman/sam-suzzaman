@@ -12,7 +12,7 @@
 -   learning NextJS and Redux
 -   Recently I completed my graduation.
 -   Currently, Involved as Frontend Developer in a project `Result Management System`.
--   For more information: [Portfolio-Website](https://samsuzzaman1998.github.io/Portfolio/)
+-   For more information: [Portfolio-Website](https://sam-suzzaman.github.io/Portfolio/)
     <br>
     <br>
     <br>
@@ -70,13 +70,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samsuzzaman1998&theme=radical&show_icons=true" alt="samsuzzaman1998"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-suzzaman&theme=radical&show_icons=true" alt="sam-suzzaman"/>
   <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samsuzzaman1998&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="samsuzzaman1998" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=samsuzzaman1998&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sam-suzzaman&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
