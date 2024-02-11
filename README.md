@@ -12,7 +12,7 @@
 -   learning NextJS and Redux
 -   Recently I completed my graduation.
 -   Currently, Involved as Frontend Developer in a project `Result Management System`.
--   For more information: [Portfolio-Website](https://sam-suzzaman.github.io/Portfolio/)
+-   For more information: [Portfolio-Website](https://sam-suzzaman.github.io/me/)
     <br>
     <br>
     <br>
