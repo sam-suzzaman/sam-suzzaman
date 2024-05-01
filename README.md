@@ -8,10 +8,9 @@
 <!-- ======================02.About Me start =====================-->
 <h2 align="center"><img align="center" src = "https://c.tenor.com/oK5AJr1cvF4AAAAj/high-volume-speaker-symbols.gif" width = 25>  ABOUT ME</h2>
 
--   Frontend Web Developer.
--   learning NextJS and Redux
--   Recently I completed my graduation.
--   Currently, Involved as Frontend Developer in a project `Result Management System`.
+-   MERN Stack Web Developer.
+-   learning NextJS
+-   Recently, complete a project called `Result Management System(RMS)`.
 -   For more information: [Portfolio-Website](https://sam-suzzaman.github.io/me/)
     <br>
     <br>
