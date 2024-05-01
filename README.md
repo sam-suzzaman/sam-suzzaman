@@ -30,7 +30,7 @@
 2. **FRONTEND DEVELOPMENT:**
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react" />
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,redux" />
    </a>
  </p>
  <br>
