@@ -1,6 +1,6 @@
 <!-- ======================01.Hero start =====================-->
 <h2 align="center"> HELLO <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width = 30>  THERE </h2>
-<p  align="center"><b>I'm Samsuzzaman, a passionate Frontend Web Developer, specializing in the MERN Stack. I'm always very enthusiastic to explore the latest web technologies.</b></p>
+<p  align="center">I'm Samsuzzaman, a MERN Stack Developer. I'm always very enthusiastic to explore the latest web technologies.</p>
 <br>
 <br>
 <be>
