@@ -1,17 +1,19 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQFW2ud9oeQFsw/profile-displaybackgroundimage-shrink_350_1400/0/1714556420576?e=1721260800&v=beta&t=iFHz2bU1EsNG_HV6H7lt1ecE-nkHi8NTUu5bMhSN-mE" />
+<br>
 <!-- ======================01.Hero start =====================-->
 <h2 align="center"> HELLO <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width = 30>  THERE </h2>
 <p  align="center">I'm Samsuzzaman, a MERN Stack Developer. I'm always very enthusiastic to explore the latest web technologies.</p>
 <br>
 <br>
-<be>
+<br>
 
 <!-- ======================02.About Me start =====================-->
 <h2 align="center"><img align="center" src = "https://c.tenor.com/oK5AJr1cvF4AAAAj/high-volume-speaker-symbols.gif" width = 25>  ABOUT ME</h2>
 
--   MERN Stack Web Developer.
--   learning NextJS
--   Recently, complete a project called `Result Management System(RMS)`.
--   For more information: [Portfolio-Website](https://sam-suzzaman.github.io/me/)
+🧰   MERN Stack Web Developer. <br>
+💡   Learning NextJS <br>
+✅   Recently, complete a project called `Result Management System(RMS)`. <br>
+📞   For more information: [Portfolio-Website](https://sam-suzzaman.github.io/me/)
     <br>
     <br>
     <br>
