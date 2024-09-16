@@ -52,7 +52,7 @@
 
 <!-- ======================02.My Skills start =====================-->
 <div align="left" style="padding-top: 20px;">
-<h2 align="left" style="font-size: 28px; font-weight:bold; color: #333; max-width: 600px;"><img src = "https://c.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width = 35 style="margin-right: 10px;">Technical Skills</h2>
+<h1 align="left" style="font-size: 28px; font-weight:bold; color: #333; max-width: 600px;"><img src = "https://c.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width = 35 style="margin-right: 10px;">Technical Skills</h1>
 </div>
 
 **_PROGRAMMING LANGUAGES:_**
@@ -105,7 +105,7 @@
 
 <!-- ======================03.My Best Projects start =====================-->
 <div align="left" style="padding-top: 20px;">
-<h2 align="left" style="font-size: 28px; font-weight:bold; color: #333; max-width: 600px;"><img src = "https://c.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width = 35 style="margin-right: 10px;">Projects Showcase</h2>
+<h1 align="left" style="font-size: 28px; font-weight:bold; color: #333; max-width: 600px;"><img src = "https://c.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width = 35 style="margin-right: 10px;">Projects Showcase</h1>
 </div>
 
 <!-- ======================03.1.Projects One =====================-->
@@ -157,20 +157,14 @@
 
 <!-- ======================04. Github Account Statistics start =====================-->
 <div align="left" style="padding-top: 20px;">
-<h2 align="left" style="font-size: 28px; font-weight:bold; color: #333; max-width: 600px;"><img src = "https://c.tenor.com/LSHKMiRdLggAAAAj/statistics-trending-up.gif" width = 35 style="margin-right: 10px;">Account Stats</h2>
+<h1 align="left" style="font-size: 28px; font-weight:bold; color: #333; max-width: 600px;"><img src = "https://c.tenor.com/LSHKMiRdLggAAAAj/statistics-trending-up.gif" width = 35 style="margin-right: 10px;">Account Stats</h1>
 </div>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-suzzaman&theme=radical&show_icons=true" alt="sam-suzzaman"/>
-</td>
+<div width="100%">
+  <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=sam-suzzaman&theme=radical&show_icons=true" alt="sam-suzzaman"/>
+</div>
 
-<td width="50%" align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
-</td>
-</tr>
-</table>
 <br>
 <br>
 <br>
