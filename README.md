@@ -8,26 +8,47 @@
     </span>
   </h2>
 </div>
-<div align="center"> <p style="font-size: 15px; color: #333; max-width: 600px; margin-top: 15px;">
-    Hi! I’m <strong>Samsuzzaman</strong>, a enthusitic Junior Web Developer, skilled in the MERN Stack. I love building user-focused web applications and always seek to learn new technologies.
+<div align="center"> <p style="font-size: 15px; color: #333; max-width: 600px; padding-top: 15px;">
+    Hi! I’m <strong>Samsuzzaman</strong>, a pepful Junior Web Developer, skilled in the MERN Stack. I love building user-focused web applications and always seek to learn new technologies.
   </p></div>
   
-<div align="center" style="padding-bottom: 20px;">
-  <img align="center" src="https://img.shields.io/badge/Frontend_Web_Developer-%231e90ff.svg?style=for-the-badge&logo=developer" alt="Frontend Developer Badge" />
+<div align="center">
+  <img align="center" src="https://img.shields.io/badge/Frontend_Web_Developer-%231e90ff.svg?style=for-the-badge&logo=developer" alt="Frontend Developer Badge" /> 
 </div>
+<br>
 
-<p align="left">
-  🧰 <strong>Experienced in</strong> developing interactive and responsive web applications.<br>
-  🚀 <strong>Proficient in:</strong> HTML, CSS, Tailwind, React.js, Node.js, Express.js, and MongoDB.<br>
-  ✅ Enthusiastic about continuously learning and exploring new technologies.<br>
-</p>
-<div align="center" style="padding-bottom: 10px;">
-  <p style="font-size: 16px; color: #555;">
-    🌐 Check out my <a href="https://sam-suzzaman.github.io/me/" target="_blank" style="color: #0073e6; text-decoration: none;"><strong>Portfolio</strong></a>
-  </p>
+<div align="left">
+  <span style="padding: 10px 0;">
+  🧰 <strong>Experienced in</strong> developing interactive and responsive web applications.
+  </span> 
+  <br>
+  <span>
+  🚀 <strong>Proficient in:</strong> HTML, CSS, Tailwind, React.js, Node.js, Express.js, and MongoDB.
+  </span>
+  <br>
+  <span>
+  ✅ Enthusiastic about continuously learning and exploring new technologies.
+  </span>
+  <br>
+  <span>
+  🌐 Check out my <a href="https://sam-suzzaman.github.io/me/" target="_blank" style="color: #0073e6; text-decoration: none;"><strong>Portfolio</strong></a>
+  </span>
 </div>
+<br>
+<div align="left">
+  <!-- Gmail Badge -->
+  <a href="mailto:00samsuzzaman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
 
+  <!-- LinkedIn Badge -->
+  <a href="www.linkedin.com/in/md-samsuzzaman-72a937203" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</div>
 <!-- ======================01. Hero end =====================-->
+<br>
+<br>
 
 <!-- ======================02.My Skills start =====================-->
 <div align="left" style="padding-top: 20px;">
@@ -77,10 +98,10 @@
      <img src="https://skillicons.dev/icons?i=photoshop,figma,matlab" />
    </a>
  </p>
- <br>
+ 
+<br>
+<br/>
 
-<br/>
-<br/>
 
 <!-- ======================03.My Best Projects start =====================-->
 <div align="left" style="padding-top: 20px;">
@@ -89,45 +110,50 @@
 
 <!-- ======================03.1.Projects One =====================-->
 <div align="left">
-  <h4 style="font-size: 20px; font-weight:bold; color: #001166;">
+  <h3 style="font-size: 20px; font-weight:bold; color: #001166;">
     <strong>✨ RMS (MERN) - <span style="font-size:14px;">[ Feb 11, 2023 - May 03, 2024 ]</span></strong>
-  </h4>
+  </h3>
     <p>
     <strong>Description:</strong> Result Management System (RMS) is a web-based application designed to manage and automate student results for educational institutions (University Level). The system allows authorized users, such as teachers, to add, maintain, and publish student data while complying with regulations. Students can log in to view their results and download documents in PDF format. This automated approach simplifies data handling and enhances efficiency compared to traditional methods.
   </p>
-  <ul style="list-style-type: none; padding-left:0;">
-    <li style="padding-bottom:5px;">⚛️ <strong style="padding:0 2px">Frontend:</strong> ReactJS, Tailwind, React-Query, DayJS, Rechart, Axios, React-Hook-Form</li>
-    <li style="padding-bottom:5px;">🌲 <strong style="padding:0 2px">Backend:</strong> Node.js, Express.js, Mongoose</li>
-    <li style="padding-bottom:5px;">🗃️ <strong style="padding:0 2px">Database:</strong> MongoDB</li>
-    <li style="padding-bottom:5px;">🔐 <strong style="padding:0 2px">Authentication:</strong> JWT, Secure API</li>
-  </ul>
+  <div style="list-style-type: none; padding-left:0;">
+    <span style="padding-bottom:0px;">⚛️ <strong style="padding:0 2px">Frontend:</strong> ReactJS, Tailwind, React-Query, DayJS, Rechart, Axios, React-Hook-Form </span> <br>
+    <span style="padding-bottom:0px;">🌲 <strong style="padding:0 2px">Backend:</strong> Node.js, Express.js, Mongoose</span> <br>
+    <span style="padding-bottom:20px;">🗃️ <strong style="padding:0 2px">Database:</strong> MongoDB</span> <br>
+    <span style="padding-bottom:20px;">🔐 <strong style="padding:0 2px">Authentication:</strong> JWT, Secure API</span> <br>
+  </div>
+  <br>
   <p>
     <strong>Live Demo:</strong> <a href="https://resultsystem.netlify.app/" target="_blank" style="color: #0073e6; text-decoration: none;">View Live App</a><br>
     <strong>Frontend Repository:</strong> <a href="https://github.com/sam-suzzaman/RMS_Client" target="_blank" style="color: #0073e6; text-decoration: none;">View Code</a>
   </p>
 </div>
-
+<br>
 <!-- ======================03.2.Projects Two =====================-->
 <div align="left" style="padding-top:20px">
-  <h4 style="font-size: 20px; font-weight:bold; color: #001166;">
+  <h3 style="font-size: 20px; font-weight:bold; color: #001166;">
     <strong>✨ Hunter (MERN) - <span style="font-size:14px;">[ Nov 08, 2023 - Dec 01, 2023 ]</span></strong>
-  </h4>
+  </h3>
     <p>
     <strong>Description:</strong> The Job Portal Web Application is a MERN stack platform for job management, featuring a dashboard with job listings, user registration, and profile management. It supports three roles: Admin (manages users and settings), Recruiters (post and manage jobs), and Applicants (apply for jobs and manage their profiles).
   </p>
-  <ul style="list-style-type: none; padding-left:0;">
-    <li style="padding-bottom:5px;">⚛️ <strong style="padding:0 2px">Frontend:</strong> ReactJS, Tailwind, Redux, SCSS, Axios</li>
-    <li style="padding-bottom:5px;">🌲 <strong style="padding:0 2px">Backend:</strong> Node.js, Express.js (Mongoose)</li>
-    <li style="padding-bottom:5px;">🗃️ <strong style="padding:0 2px">Database:</strong> MongoDB</li>
-    <li style="padding-bottom:5px;">🔐 <strong style="padding:0 2px">Authentication:</strong> JWT, Secure API</li>
-    <li style="padding-bottom:5px;">📱 <strong style="padding:0 2px">Responsive:</strong> Fully responsive design</li>
-  </ul>
+  <div style="list-style-type: none; padding-left:0;">
+    <span style="padding-bottom:5px;">⚛️ <strong style="padding:0 2px">Frontend:</strong> ReactJS, Tailwind, Redux, SCSS, Axios</span> <br>
+    <span style="padding-bottom:5px;">🌲 <strong style="padding:0 2px">Backend:</strong> Node.js, Express.js (Mongoose)</span> <br>
+    <span style="padding-bottom:5px;">🗃️ <strong style="padding:0 2px">Database:</strong> MongoDB</span> <br>
+    <span style="padding-bottom:5px;">🔐 <strong style="padding:0 2px">Authentication:</strong> JWT, Secure API</span> <br>
+    <span style="padding-bottom:5px;">📱 <strong style="padding:0 2px">Responsive:</strong> Fully responsive design</span> 
+  </div>
+  <br>
   <p>
     <strong>Live Demo:</strong> <a href="https://hunter-iota.vercel.app/" target="_blank" style="color: #0073e6; text-decoration: none;">View Live App</a><br>
     <strong>Frontend Repository:</strong> <a href="https://github.com/sam-suzzaman/Hunter-Frontend" target="_blank" style="color: #0073e6; text-decoration: none;">View Code</a><br>
     <strong>Backend Repository:</strong> <a href="https://github.com/sam-suzzaman/Hunter-Backend" target="_blank" style="color: #0073e6; text-decoration: none;">View Code</a>
   </p>
 </div>
+
+<br>
+<br>
 
 <!-- ======================04. Github Account Statistics start =====================-->
 <div align="left" style="padding-top: 20px;">
@@ -137,15 +163,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-suzzaman&theme=radical&show_icons=true" alt="sam-suzzaman"/>
-  <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sam-suzzaman&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
+</td>
 </tr>
 </table>
 <br>
