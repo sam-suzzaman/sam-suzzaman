@@ -120,7 +120,7 @@ Result Management System (RMS) is a web-based application designed to manage and
 5. **Mark Submission**: Submit and update internal, semester, and improvement marks with PDF summaries.
 
 ##### ✔️ Links:
-- [Live Demo](https://resultsystem.netlify.app/)
+- [Live Site](https://resultsystem.netlify.app/)
 - [Frontend Repository](https://github.com/sam-suzzaman/RMS_Client)
 
 ---
@@ -144,6 +144,11 @@ The Job Portal Web Application is a MERN stack platform for job management, feat
 3. **Applicant Features**: Apply for jobs, update profile, and view application history.
 4. **Recruiter Features**: Add, update, manage jobs, and review applications.
 5. **Admin Controls**: Manage user roles, perform CRUD operations on users, and configure recruiter settings.
+
+##### ✔️ Links:
+- [Live Site](https://hunter-iota.vercel.app/)
+- [Frontend Repository](https://github.com/sam-suzzaman/Hunter-Frontend)
+- [Backend Repository](https://github.com/sam-suzzaman/Hunter-Backend)
 
 ---
 
