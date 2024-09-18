@@ -145,10 +145,34 @@ The Job Portal Web Application is a MERN stack platform for job management, feat
 4. **Recruiter Features**: Add, update, manage jobs, and review applications.
 5. **Admin Controls**: Manage user roles, perform CRUD operations on users, and configure recruiter settings.
 
+---
+
+#### 🚀 Project Title: uniBook `(MERN)`
+###### 🗓️ Date: Apr 03, 2024 - Apr 29, 2024
+
+##### ✔️ _Description:_
+UniBook is a modern web application built on the MERN stack.It is a comprehensive, user-friendly web application designed to facilitate college services and facility bookings. UniBook allows users to explore various colleges, view detailed information, and book services while maintaining a seamless and engaging experience. The platform is equipped with a variety of features, including college searches, admissions processes, user authentication, profile management, and user reviews.
+
+##### ✔️ Technologies Used:
+- **Frontend:** React.js, Tailwind CSS, Redux Toolkit, SCSS, Axios  
+- **Backend:** Node.js, Express.js (Mongoose)  
+- **Database:** MongoDB  
+- **Authentication:** JWT, Firebase for OAuth, Secure API  
+- **Responsive:** Fully responsive design
+
+##### ✔️ Key Features:
+1. **College Search & Details**: Search for colleges and view details like admission dates, events, research works, and sports facilities.
+2. **Core Pages**: Includes Home, College Listings, College Details, Admission Form, and My College.
+3. **Applicant Features**: Apply for colleges, view submitted applications, and leave reviews with ratings.
+4. **Review Section**: Users can leave feedback and ratings for colleges, visible on the homepage.
+5. **Authentication**: Secure login using email/password, Google, and social media; password reset functionality.
+6. **Profile Management**: Users can edit profile information such as name, email, university, and address.
+7. **Admin Controls**: Manage user roles, handle admission processes, and moderate college reviews.
+
 ##### ✔️ Links:
-- [Live Site](https://hunter-iota.vercel.app/)
-- [Frontend Repository](https://github.com/sam-suzzaman/Hunter-Frontend)
-- [Backend Repository](https://github.com/sam-suzzaman/Hunter-Backend)
+- [Live Site](https://universitybook.netlify.app/)
+- [Frontend Repository](https://github.com/sam-suzzaman/UniBook-Frontend)
+- [Backend Repository](https://github.com/sam-suzzaman/UniBook-Backend)
 <br>
 <br>
 <!-- ======================04. Github Account Statistics start =====================-->
