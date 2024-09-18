@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFW2ud9oeQFsw/profile-displaybackgroundimage-shrink_350_1400/0/1714556420576?e=1721260800&v=beta&t=iFHz2bU1EsNG_HV6H7lt1ecE-nkHi8NTUu5bMhSN-mE" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFW2ud9oeQFsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714556420576?e=1732147200&v=beta&t=C0-1PHcgJ4sz--9J-OANrASEXnk6gO2lpj4YCjOx-5g" />
 
 <!-- ======================01.Hero start =====================-->
 <div align="center">
@@ -155,8 +155,8 @@ The Job Portal Web Application is a MERN stack platform for job management, feat
 <h2 align="left">📊 Account Stats</h2>
 
 <div width="100%">
-  <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=sam-suzzaman&theme=radical&show_icons=true" alt="sam-suzzaman"/>
+  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=sam-suzzaman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sam-suzzaman" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=sam-suzzaman&theme=radical&show_icons=true" alt="sam-suzzaman"/>
 </div>
 
 <br>
