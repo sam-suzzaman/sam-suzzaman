@@ -12,7 +12,7 @@
   </p>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend_Web_Developer-%23fff3e0?style=flat-square&logo=developer&logoColor=%23000000&labelColor=%23f4a261&labelFontWeight=bold" alt="Frontend Web Developer (Bold)" />
+  <img src="https://img.shields.io/badge/Frontend_Web_Developer-%23fff3e0?style=flat-square&logo=developer&logoColor=%23000000&labelColor=%23f4a261&labelFontWeight=bold" alt="Junior MERN Stack Developer (Bold)" />
 </div>
 
 <br>
