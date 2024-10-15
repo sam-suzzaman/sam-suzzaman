@@ -178,6 +178,30 @@ UniBook is a modern web application built on the MERN stack.It is a comprehensiv
 - [Live Site](https://universitybook.netlify.app/)
 - [Frontend Repository](https://github.com/sam-suzzaman/UniBook-Frontend)
 - [Backend Repository](https://github.com/sam-suzzaman/UniBook-Backend)
+
+---
+
+#### 🚀 Project Title: Neutron `(MENN)`
+###### 🗓️ Date: Oct 12, 2024 - Present
+
+##### ✔️ _Description:_
+It's a NextJS based full-stack web application. This application has been created so that a user can manage his/her daily used important contacts very easily through this application. Contacts are displayed on the website as a list. He/She can add, update, delete the contact list as they want.
+
+##### ✔️ Technologies Used:
+- **Frontend:** NextJS, Redux, React hot toast, React hook form, React Loading Skeleton, Framer motion 
+- **Backend:** Node.js, Express.js (Mongoose), joi 
+- **Database:** MongoDB  
+- **Responsive:** Fully responsive design  
+
+##### ✔️ Key Features:
+1. **Manage Contacts**: Add, Edit, Delete Contacts.
+2. **Get Contacts**: A list of contacts is shown in the homepage.
+3. **Favourite list**: Can add/remove contact's in favourite list for quick access.
+4. **Fullstack**: It's a full stack application (both the frontend and api are build using NextJS technology
+
+##### ✔️ Links:
+- [Live Site](https://neutron-cyan.vercel.app/)
+- [Code Repository](https://github.com/sam-suzzaman/neutron)
 <br>
 <br>
 <!-- ======================04. Github Account Statistics start =====================-->
