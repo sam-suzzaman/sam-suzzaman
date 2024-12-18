@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <p>
-    Hi! I’m <strong>Samsuzzaman</strong>, a Junior Web Developer, skilled in the <strong>MERN Stack</strong></p>. I love building user-focused web applications and always seek to learn new technologies.
+    Hi! I’m <strong>Samsuzzaman</strong>, a web developer, skilled in the <strong>MERN Stack</strong>. I always enjoy building user-focused web applications and always seek to learn new technologies.
   </p>
 </div>
 <div align="center">
@@ -123,6 +123,14 @@ Result Management System (RMS) is a web-based application designed to manage and
 - [Live Site](https://resultsystem.netlify.app/)
 - [Frontend Repository](https://github.com/sam-suzzaman/RMS_Client)
 
+##### ✔️ App Credentials(for Testing):
+- Admin Role Login
+  - Email: teacher-one@gmail.com
+  - Password: 18102900
+- Student Role Login
+  - Email: student-one19@gmail.com
+  - Password: 19102901
+
 ---
 
 #### 🚀 Project Title: Hunter `(MERN)`
@@ -149,6 +157,14 @@ The Job Portal Web Application is a MERN stack platform for job management, feat
 - [Live Site](https://hunter-iota.vercel.app/)
 - [Frontend Repository](https://github.com/sam-suzzaman/Hunter-Frontend)
 - [Backend Repository](https://github.com/sam-suzzaman/Hunter-Backend)
+
+##### ✔️ App Credentials(for Testing):
+- Recruiter Role Login
+  - Email: recruiter1@gmail.com
+  - Password: 12345678
+- User Role Login
+  - Email: user1@gmail.com
+  - Password: 12345678
 
 ---
 
@@ -181,7 +197,7 @@ UniBook is a modern web application built on the MERN stack.It is a comprehensiv
 
 ---
 
-#### 🚀 Project Title: Neutron `(MENN)`
+#### 🚀 Project Title: Taskify `(MENN)`
 ###### 🗓️ Date: Oct 12, 2024 - Present
 
 ##### ✔️ _Description:_
