@@ -8,11 +8,11 @@
 </div>
 <div align="center">
   <p>
-    Hi! I’m <strong>Samsuzzaman</strong>, a pepful Junior Web Developer, skilled in the MERN Stack. I love building user-focused web applications and always seek to learn new technologies.
+    Hi! I’m <strong>Samsuzzaman</strong>, a Junior Web Developer, skilled in the <strong>MERN Stack</strong></p>. I love building user-focused web applications and always seek to learn new technologies.
   </p>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Junior_MERN_Stack_Developer-%23fff3e0?style=flat-square&logo=developer&logoColor=%23000000&labelColor=%23f4a261&labelFontWeight=bold" alt="Junior MERN Stack Developer" />
+  <img src="https://img.shields.io/badge/Junior_MERN_Stack_Developer-%23fff3e0?style=flat-square&logo=developer&logoColor=%23000000&labelColor=%23f4a261&labelFontWeight=bold" alt="Junior Web Developer" />
 </div>
 
 <br>
